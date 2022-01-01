@@ -1,0 +1,17 @@
+[
+  {
+    "name": "course_nbr",
+    "type": "INTEGER",
+    "mode": "required"
+  },
+  {
+    "name": "student_name",
+    "type": "STRING",
+    "mode": "required"
+  },
+  {
+    "name": "teacher_name",
+    "type": "STRING",
+    "mode": "required"
+  }
+]
