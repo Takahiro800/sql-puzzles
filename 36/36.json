@@ -1,0 +1,12 @@
+[
+  {
+    "name": "person",
+    "type": "STRING",
+    "mode": "required"
+  },
+  {
+    "name": "role",
+    "type": "STRING",
+    "mode": "required"
+  }
+]
