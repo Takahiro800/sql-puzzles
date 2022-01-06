@@ -1,0 +1,12 @@
+[
+  {
+    "name": "credit_cat",
+    "type": "STRING",
+    "mode": "required"
+  },
+  {
+    "name": "rqd_credits",
+    "type": "INTEGER",
+    "mode": "required"
+  }
+]

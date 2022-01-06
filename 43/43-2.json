@@ -1,0 +1,17 @@
+[
+  {
+    "name": "student_name",
+    "type": "STRING",
+    "mode": "required"
+  },
+  {
+    "name": "credit_cat",
+    "type": "STRING",
+    "mode": "required"
+  },
+  {
+    "name": "credits",
+    "type": "INTEGER",
+    "mode": "required"
+  }
+]
