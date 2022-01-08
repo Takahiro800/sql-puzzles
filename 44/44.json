@@ -1,0 +1,17 @@
+[
+  {
+    "name": "item_a",
+    "type": "INTEGER",
+    "mode": "required"
+  },
+  {
+    "name": "item_b",
+    "type": "INTEGER",
+    "mode": "required"
+  },
+  {
+    "name": "pair_tally",
+    "type": "INTEGER",
+    "mode": "required"
+  }
+]
