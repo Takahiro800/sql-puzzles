@@ -1,0 +1,22 @@
+{
+  "string": {
+    "prefix": "string",
+    "body": [
+      "{",
+      "\"name\": \"$1\",",
+      "\"type\": \"STRING\",",
+      "\"mode\": \"required\"",
+      "},",
+    ],
+  },
+  "integer": {
+    "prefix": "integer",
+    "body": [
+      "{",
+      "\"name\": \"$1\",",
+      "\"type\": \"INTEGER\",",
+      "\"mode\": \"required\"",
+      "},",
+    ],
+  },
+}
