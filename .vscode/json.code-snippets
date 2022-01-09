@@ -1,4 +1,18 @@
 {
+  "table_name": {
+    "prefix": "dataset",
+    "body": [
+      "dataset.",
+    ],
+  },
+  "comments": {
+    "prefix": "comments",
+    "body": [
+      "/*",
+      "$1",
+      "*/"
+    ],
+  },
   "string": {
     "prefix": "string",
     "body": [
@@ -15,6 +29,16 @@
       "{",
       "\"name\": \"$1\",",
       "\"type\": \"INTEGER\",",
+      "\"mode\": \"required\"",
+      "},",
+    ],
+  },
+  "date": {
+    "prefix": "date",
+    "body": [
+      "{",
+      "\"name\": \"$1\",",
+      "\"type\": \"DATE\",",
       "\"mode\": \"required\"",
       "},",
     ],
