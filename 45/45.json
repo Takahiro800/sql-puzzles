@@ -1,0 +1,17 @@
+[
+  {
+    "name": "cust_id",
+    "type": "INTEGER",
+    "mode": "required"
+  },
+  {
+    "name": "bill_date",
+    "type": "DATE",
+    "mode": "required"
+  },
+  {
+    "name": "pizza_amt",
+    "type": "INTEGER",
+    "mode": "required"
+  }
+]
