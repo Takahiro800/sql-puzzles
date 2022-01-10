@@ -1,0 +1,12 @@
+[
+  {
+    "name": "customer_name",
+    "type": "STRING",
+    "mode": "required"
+  },
+  {
+    "name": "sale_date",
+    "type": "DATE",
+    "mode": "required"
+  }
+]
