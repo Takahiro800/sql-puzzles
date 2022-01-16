@@ -1,0 +1,22 @@
+[
+  {
+    "name": "conname",
+    "type": "STRING",
+    "mode": "required"
+  },
+  {
+    "name": "address",
+    "type": "STRING",
+    "mode": "required"
+  },
+  {
+    "name": "con_id",
+    "type": "INTEGER",
+    "mode": "required"
+  },
+  {
+    "name": "fam",
+    "type": "INTEGER",
+    "mode": "nullable"
+  }
+]
