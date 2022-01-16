@@ -1,0 +1,17 @@
+[
+  {
+    "name": "test_name",
+    "type": "STRING",
+    "mode": "required"
+  },
+  {
+    "name": "test_step",
+    "type": "INTEGER",
+    "mode": "required"
+  },
+  {
+    "name": "comp_date",
+    "type": "DATE",
+    "mode": "nullable"
+  }
+]
