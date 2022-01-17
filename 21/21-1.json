@@ -1,0 +1,12 @@
+[
+  {
+    "name": "pilot",
+    "type": "STRING",
+    "mode": "required"
+  },
+  {
+    "name": "plane",
+    "type": "STRING",
+    "mode": "required"
+  }
+]
